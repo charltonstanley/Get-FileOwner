@@ -26,6 +26,7 @@ Function Get-FileOwner {
         Specifies whether or not to query ownership info recursively
     .Notes
         Cmdlet version: 1.0
+        Written by @charltonstanley
     #>
     [CmdletBinding(DefaultParameterSetName='WriteToScreen')]
     param (
