@@ -13,7 +13,7 @@ Function Get-FileOwner {
 
         Recursively returns the file owners for the path "c:\temp\"
     .EXAMPLE
-        PS C:\> Get-FileOwner -Path 'C:\temp\' -WriteToFileAsync -OutFilePath 'c:\temp\balls.txt' -Recurse
+        PS C:\> Get-FileOwner -Path 'C:\temp\' -WriteToFileAsync -OutFilePath 'c:\temp\FileOwnerList.txt' -Recurse
 
         Recursively returns the file owners for the path "c:\temp\" and outputs the results to a file asyncronously.
     .PARAMETER Path
