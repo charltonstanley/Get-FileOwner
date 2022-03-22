@@ -6,3 +6,7 @@ This was written due to a need that a business unit had to evaluate the owner of
 While this script has a pretty narrow scope, the potential it has to be manipulated to accommodate other needs is very high.  Please feel free to use this as a framework for any other fileshare needs you have!
 
 Also, please feel to contribute to the existing script!
+
+## License
+
+MIT
